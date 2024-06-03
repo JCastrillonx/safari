@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="flex flex-row gap-8">
         {/*Columna logo y creditos*/}
         <div className="md:w-1/2 px-4  ">
-          <a href="/" className='text-lg font-semibold flex items-center space-x-1 uppercase'>
+          <a href="/safari" className='text-lg font-semibold flex items-center space-x-1 uppercase'>
             <img src={logoElefante} alt="Logo Elefante" className=' inline-block items-center ' />
             <span className='text-white hidden'>Safari Group HR</span>
           </a>
@@ -26,7 +26,7 @@ const Footer = () => {
             <a href="https://www.instagram.com/safarigrouphr" target="_blank"  rel="noopener" className="text-blue-400 hover:text-white inline-flex hover:-translate-y-4 transition-all duration-300">
               <Instagram />
             </a>
-            <a href="/" className="text-blue-400 hover:text-white inline-flex hover:-translate-y-4 transition-all duration-300">
+            <a href="/safari" className="text-blue-400 hover:text-white inline-flex hover:-translate-y-4 transition-all duration-300">
               <Facebook />
             </a>
             <a href="mailto:jobs@safari-group.com?subject=Asesor%C3%ADa%20&body=Hola!%20%0AQuiero%20recibir%20informaci%C3%B3n%20del%20servicio%2C%20%C2%BFme%20cuentas%20m%C3%A1s%3F" target="_blank"  rel="noopener" className="text-blue-400 hover:text-white inline-flex hover:-translate-y-4 transition-all duration-300">

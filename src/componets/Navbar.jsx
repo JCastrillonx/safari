@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="container px-4 mx-auto relative text-sm">
             <div className="flex items-center justify-between">
                 <div className="flex items-center  flex-shrink-0">
-                    <a href="/"><img className="h-12 w-100 mr-2" src={logo} alt="" /></a>
+                    <a href="/safari"><img className="h-12 w-100 mr-2" src={logo} alt="" /></a>
                     
                 </div>
                 <ul className="hidden lg:flex ml-14 space-x-12 text-purple-800">
