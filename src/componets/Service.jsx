@@ -26,7 +26,7 @@ const Service = () => {
                             Global IT Recruitment
                         </div>
                         <div className="mt-3 text-sm text-gray-600">
-                            We tailor our approach to your specific needs, evaluating candidates for soft skills, technical abilities, and language proficiency. We ensure cultural fit for seamless integration with your team. Staying updated with tech advancements, we provide cutting-edge IT recruitment solutions. Connecting you to international IT talent across Latin America, the USA, and Europe.
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto repellat officiis beatae, expedita eligendi laboriosam dolor corrupti consequuntur in ab consequatur, modi maiores quo soluta aspernatur culpa maxime, quia quam?
                         </div>
                     </motion.div>
                     <motion.div
@@ -54,7 +54,7 @@ const Service = () => {
                             CV and LinkedIn Optimization
                         </div>
                         <div className="mt-3 text-sm text-gray-600">
-                            We collaborate to authentically highlight your skills, experiences, and potential on your CV and LinkedIn. Every session is custom-tailored, ensuring it aligns with the unique needs of each professional.
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor incidunt sunt voluptatibus illum mollitia deserunt minima labore expedita. Nam fuga officiis facilis libero ipsam optio corporis aperiam at doloribus nihil?
                         </div>
                     </motion.div>
                 </div>
@@ -73,7 +73,7 @@ const Service = () => {
                         <div className="col-span-2 hidden md:block"></div>
                         <div className="col-span-12 md:col-span-8 text-sm text-gray-600">
                             <p>
-                                At Safari Group HR, we firmly believe that every individual, regardless of race, ethnicity, gender, sexual orientation, religion, or any other condition, brings a unique perspective that enriches and empowers the world. We strive to be strategic allies for companies and candidates, fostering a work culture where diversity is foundational and inclusion is experienced in every interaction, project, and initiative.
+                                at Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab tempora alias rem maiores excepturi necessitatibus enim, quam inventore sint asperiores, ea recusandae architecto minima, laudantium dicta tenetur numquam vero minus?
                             </p>
 
                         </div>

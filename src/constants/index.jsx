@@ -18,20 +18,20 @@ export const heroItems = [
         alt: "", 
         title: "#genuineconnections", 
         text: "We connect talent and technology with global opportunities", 
-        btn: { href: "contact", label: "Contac" }
+        btn: { href: "https://www.linkedin.com/in/jm-castrillon/", label: "LinkendIn" }
     },
     { 
         img: heroYoungChild, 
         alt: "", 
-        title: "Jesica Logioco", 
-        text: "Conecto a personas de tecnología con oportunidades con propósitos | IT Staffing | Consultora IT | Enfocada en sector tech", 
-        btn: { href: "https://www.linkedin.com/in/jesicalogioco-safarigrouphr/", label: "LinkendIn" }
+        title: "#Ernest Hemingway", 
+        text: "--- Antes de reaccionar, piensa. Antes de gastar, gana. Antes de criticar, espera. Antes de abandonar, inténtalo...  ", 
+        btn: { href: "https://www.linkedin.com/in/jm-castrillon/", label: "LinkendIn" }
     },
     { 
         img: heroYoungStudent, 
         alt: "", 
-        title: "Vivir al  maximo", 
-        text: "Asegurando eficiencia y estableciendo relaciones auténticas y duraderas. ", 
-        btn: null
+        title: "#Confucio", 
+        text: "--- No importa qué tan despacio vayas, siempre y cuando no te detengas…", 
+        btn: { href: "https://www.linkedin.com/in/jm-castrillon/", label: "LinkendIn" }
     }
 ];

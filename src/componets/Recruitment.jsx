@@ -22,12 +22,12 @@ const Recruitment = () => {
                     For IT Companies Solutions 
                     </div>
                     <div className="mt-3 text-sm text-gray-600">
-                      <p>Ready to forge genuine connections with the best IT talent and boost your teams' development? Discover how we can be your ally.</p>                  
+                      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi nihil, dolores illo nesciunt, optio beatae quos ipsum deserunt ratione vero explicabo voluptas quis rerum earum dolorem corrupti error quam iure!</p>                  
                     </div>
                     <div className="">
                       <br />
                       <br />
-                      <a href="mailto:info@safari-group.com?subject=Descubriendo%20Safari%20Group%20HR&body=Hola!%20%0AQuiero%20conocer%20m%C3%A1s%20acerca%20de%20Safari%20Group%20HR.%20" className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 btn-primary py-4 text-white px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank'>
+                      <a href="https://www.linkedin.com/in/jm-castrillon/" className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 btn-primary py-4 text-white px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank'  rel="noopener noreferrer">
                       Contact Us
                       </a>
                     </div>
@@ -45,12 +45,12 @@ const Recruitment = () => {
                     For IT Professionals Seeking Employment
                     </div>
                     <div className="mt-3 text-sm text-gray-600">
-                    If you're an IT professional looking for new challenges, send us your CV. We're always eager to forge new connections.
+                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut excepturi tenetur laboriosam iste velit eum ab eaque, consequuntur quo rerum adipisci repellendus repudiandae amet perferendis recusandae iure consectetur, magni officiis.
                     </div>
                     <div className="">
                       <br />
                       <br />
-                      <a href="mailto:jobs@safari-group.com?subject=B%C3%BAsqueda%20Laboral&body=Hola!%0AEstoy%20en%20b%C3%BAsqueda%20laboral%2C%20adjunto%20CV." className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 py-4 text-white btn-primary px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank'>
+                      <a href="https://www.linkedin.com/in/jm-castrillon/" className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 py-4 text-white btn-primary px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank'  rel="noopener noreferrer">
                       Send Your CV
                       </a>
                     </div>
@@ -67,12 +67,12 @@ const Recruitment = () => {
                     For CV and LinkedIn Consultation
                     </div>
                     <div className="mt-3 text-sm text-gray-600">
-                    If you're seeking guidance to enhance your CV and LinkedIn profile, we're here to support you. Together, we'll address your goals.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, error inventore ipsum illum delectus odio perferendis iure itaque commodi dolor cumque! Doloribus consequatur repudiandae tempora commodi, tempore similique cupiditate quaerat!
                     </div>
                     <div className="">
                       <br />
                       <br />
-                      <a href="mailto:jobs@safari-group.com?subject=Asesor%C3%ADa%20CV%20y%20LinkedIn&body=Hola!%20%0AQuiero%20recibir%20informaci%C3%B3n%20del%20servicio%2C%20%C2%BFme%20cuentas%20m%C3%A1s%3F" className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 py-4 btn-primary text-white px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank'>
+                      <a href="https://www.linkedin.com/in/jm-castrillon/" className="bg-gradient-to-r from-[#EE9AE5] to-purple-800 py-4 btn-primary text-white px-4 border rounded-md inline-flex hover:-translate-y-4 transition-all duration-300" target='_blank' rel="noopener noreferrer" >
                       Contact Us
                       </a>
                     </div>

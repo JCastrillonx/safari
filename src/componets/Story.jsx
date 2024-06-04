@@ -30,7 +30,7 @@ const Story = () => {
                         {inView && <CountUp end={1000000} duration={2} prefix="+" separator="," />}
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
-                        "Our social media community reflects our core value, resonating with followers from all corners of the globe."
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex perferendis enim minus id, quas 
                     </div>
                 </div>
                 <div className="p-8 bg-white rounded-lg shadow-md">
@@ -38,7 +38,7 @@ const Story = () => {
                         {inView && <CountUp end={35} duration={2} prefix="+" />}
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
-                        "Top companies from Latin America, the USA, and Europe trust us, highlighting our commitment to excellence."
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde suscipit, enim exercitationem doloremque
                     </div>
                 </div>
                 <div className="p-8 bg-white rounded-lg shadow-md">
@@ -46,7 +46,7 @@ const Story = () => {
                         {inView && <CountUp end={150} duration={2} prefix="+" />}
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
-                        "We've successfully onboarded highly qualified candidates in the IT sector, showcasing our expertise and dedication to quality."
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
                     </div>
                 </div>
                 <div className="p-8 bg-white rounded-lg shadow-md">
@@ -54,7 +54,7 @@ const Story = () => {
                         {inView && <CountUp end={2} duration={2} prefix="+" />}
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
-                        "For two consecutive years, we've been acknowledged for filling the most challenging IT roles."
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum dignissimos hic quasi nam 
                     </div>
                 </div>
                 <div className="p-8 bg-white rounded-lg shadow-md">
@@ -63,7 +63,7 @@ const Story = () => {
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
                         <p>
-                            "Our candidate evaluations go beyond technical skills, encompassing soft skills, language mastery, and cultural alignment."
+                           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum totam maxime cumque.
                         </p>
                     </div>
                 </div>
@@ -72,7 +72,7 @@ const Story = () => {
                         {inView && <CountUp end={250} duration={2} prefix="+" />}
                     </div>
                     <div className="mt-3 text-lg text-gray-600">
-                        "We provide tailored advisories, positively impacting careers and LinkedIn profiles."
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum soluta pariatur quas quia
                     </div>
                 </div>
             </motion.div>

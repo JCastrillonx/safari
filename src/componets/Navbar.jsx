@@ -1,6 +1,6 @@
 import { Menu, X, MessageCircleHeart } from 'lucide-react';
 import { useState } from 'react';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo_jc.png';
 import { navItems } from '../constants';
 import { Link } from 'react-scroll';
 
@@ -27,7 +27,7 @@ const Navbar = () => {
                     ))}
                 </ul>
                 <div className="hidden lg:flex justify-center space-x-12 items-center">
-                    <a href="https://wa.me/5491131221328" target='_blank' className="bg-gradient-to-r from-[#EE9AE5] to-purple-800  inline-flex justify-center items-center btn-primary py-2 text-white px-3 border rounded-md hover:-translate-y-1 transition-all duration-300">
+                    <a href="https://www.linkedin.com/in/jm-castrillon/" target='_blank' rel='noopener noreferre ' className="bg-gradient-to-r from-[#EE9AE5] to-purple-800  inline-flex justify-center items-center btn-primary py-2 text-white px-3 border rounded-md hover:-translate-y-1 transition-all duration-300">
                     <MessageCircleHeart className="mr-2" />Let´s Talk
                     </a>
                 </div>

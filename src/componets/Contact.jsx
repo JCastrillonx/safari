@@ -27,10 +27,10 @@ const Contact = () => {
             className="md:w-3/5">
             <h2 className="md:text-6xl text-4xl font-bold text-white mb-6 leading-relaxed">You need more information about us</h2>
             <p className="text-[#EBEBEB] text-lg mb-8">
-              At Safari Group HR, we provide high-quality services tailored to your needs. Our team of professionals strives to exceed expectations on every project. Whether you need personalized assistance, innovative solutions, or more information about our services, we are here to help.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates totam et esse pariatur nostrum animi illum, dolores voluptatibus adipisci sunt ipsum quos illo iure saepe odit. Aspernatur commodi at natus.
             </p>
             <div className="space-x-5 space-y-5">
-              <a href="https://wa.me/5491131221328" target='_blank' rel="noopener" className="bg-[#673ab7] font-semibold inline-flex py-4 text-white px-3 hover:bg-[#ffc107] rounded-md hover:-translate-y-4 transition-all duration-300">
+              <a href="https://www.linkedin.com/in/jm-castrillon/" target='_blank' rel="noopener noreferrer" className="bg-[#673ab7] font-semibold inline-flex py-4 text-white px-3 hover:bg-[#ffc107] rounded-md hover:-translate-y-4 transition-all duration-300">
                 <MessageCircleHeart className="mr-2" />Send us a message
               </a>
             </div>

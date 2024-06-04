@@ -29,17 +29,12 @@ const About = () => {
                 whileInView={"show"}
                 viewport={{once:true}}
                 className="md:w-3/5 text-gray-600  sm:text-center text-left sm:px-8 text-lg">
-                    <p className="mb-2 ">
-                        Safari Group HR is more than a consultancy. We're a team of recruiters and developers driven by genuine connections between people and technology. With 5 years in the IT sector, we understand the demands of technical talent.
-                    </p>
-                    <p className="mb-2 ">
-                        We collaborate with a select group of clients, ensuring efficiency and establishing authentic, long-lasting relationships.
-                    </p>
+                    <p className="mb-2 ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae eius, quod laborum facilis temporibus nulla ea cumque nihil porro eligendi praesentium laboriosam nam dignissimos earum. Dolores, nobis? Totam, deleniti magni.</p>
                     <p className="mb-5">
-                        Our philosophy is based on the power of genuine connections, a principle that has guided us from our beginnings. We understood that these connections are redefining IT recruitment. In a world of constant technological evolution, Safari Group HR always prioritizes commitment to human values.
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit hic, maiores distinctio aliquid nihil tempore maxime eos architecto soluta fuga totam qui suscipit inventore praesentium rerum delectus mollitia consequuntur sit.
                     </p>
                     <br/>
-                    <a href="http://www.linkedin.com/in/jesicalogioco-safarigrouphr" className="bg-gradient-to-r from-purple-500 to-purple-800 py-4 text-white btn-primary px-4 border rounded-md  inline-flex hover:-translate-y-4 transition-all duration-300">
+                    <a href="https://www.linkedin.com/in/jm-castrillon/" className="bg-gradient-to-r from-purple-500 to-purple-800 py-4 text-white btn-primary px-4 border rounded-md  inline-flex hover:-translate-y-4 transition-all duration-300">
                         "Connect with our Foundress"
                     </a>
                 </motion.div>
