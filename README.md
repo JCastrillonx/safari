@@ -7,6 +7,10 @@ This project is a remastered version of an existing Human Resources (HR) landing
 This remastered landing page is inspired by the design and functionality of the original site:
 [Safari Group HR](https://safari-group.com/)
 
+## Site Remastered
+This content is generated automatically by lorems
+[Safari Group HR Remastered](https://jcastrillonx.github.io/safari/)
+
 ## Changes and Enhancements
 
 - **Design Overhaul**: The layout and visual elements have been updated for a more modern look and feel.
